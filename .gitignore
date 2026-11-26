@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+commit-message.txt
+# Outputs and data - never commit point clouds or job results
+gcp_check*/
+*.las
+*.laz
+*.gpkg
+*.tif
